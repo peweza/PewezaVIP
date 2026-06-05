@@ -4,11 +4,8 @@
 #support-url: t.me/PewezaVPN
 #profile-web-page-url: t.me/PewezaVPN
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwazJzOWJheGVsb3luZmdi@z.res.peweza.com:42964#Peweza-Outline-SS2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjViN2FlM2NiNDI0NTQzODYwMTk5NGQ3Y2JmNmNiOA@e.cqi.peweza.com:13844#Peweza-Outline-SS1
-vless://8f270924-7339-4f9c-b544-0088ee8a3cad@w.otg.peweza.com:24496?path=%2FPeweza&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=w.otg.peweza.com&fp=chrome&type=ws&allowInsecure=0&sni=w.otg.peweza.com#Peweza-ws-tls-VIP
-vless://8f270924-7339-4f9c-b544-0088ee8a3cad@w.otg.peweza.com:50008?path=%2FPeweza&security=none&encryption=none&host=w.otg.peweza.com&type=ws#Peweza-ws-VIP
-vless://8f270924-7339-4f9c-b544-0088ee8a3cad@e.cqi.peweza.com:49230?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=grpc&allowInsecure=0&sni=e.cqi.peweza.com#Peweza-grpc-tls-VIP
-vless://8f270924-7339-4f9c-b544-0088ee8a3cad@e.cqi.peweza.com:49252?mode=gun&security=none&encryption=none&type=grpc#Peweza-grpc-VIP
-vless://8f270924-7339-4f9c-b544-0088ee8a3cad@z.res.peweza.com:52377?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=z.res.peweza.com#Peweza-tcp-tls-VIP
-vless://8f270924-7339-4f9c-b544-0088ee8a3cad@z.res.peweza.com:23912?security=none&encryption=none&headerType=none&type=tcp#Peweza-tcp-VIP
+vless://8fd2a505-b656-44a7-80cb-2c833a5645bb@212.192.214.153:3000?encryption=none&headerType=http&host=digikala.com&path=%2FSearch%2FPeweza&security=none&type=tcp#Peweza3-VIP3
+vless://64d83b6d-f02b-4bcf-ba56-e18daadfdef0@212.192.214.238:2052?encryption=none&headerType=http&host=digikala.com&path=%2FSearch%2FPeweza&security=none&type=tcp#Peweza2-VIP2
+vless://507720ee-76a0-4786-933d-7f5d38b894ef@212.192.214.124:8080?encryption=none&headerType=http&host=digikala.com&path=%2FSearch%2FPeweza&security=none&type=tcp#Peweza1-VIP1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2cXY1a3didzV4a3J1cmRo@212.192.214.124:8443?type=tcp#Peweza-ss1-Outline1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpidWI4YTdyeW5nNTFuM2py@212.192.214.238:2087?type=tcp#Peweza-ss2-Outline2
