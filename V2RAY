@@ -4,8 +4,5 @@
 #support-url: t.me/PewezaVPN
 #profile-web-page-url: t.me/PewezaVPN
 
-vless://8fd2a505-b656-44a7-80cb-2c833a5645bb@212.192.214.153:3000?encryption=none&headerType=http&host=digikala.com&path=%2FSearch%2FPeweza&security=none&type=tcp#Peweza3-VIP3
-vless://64d83b6d-f02b-4bcf-ba56-e18daadfdef0@212.192.214.238:2052?encryption=none&headerType=http&host=digikala.com&path=%2FSearch%2FPeweza&security=none&type=tcp#Peweza2-VIP2
-vless://507720ee-76a0-4786-933d-7f5d38b894ef@212.192.214.124:8080?encryption=none&headerType=http&host=digikala.com&path=%2FSearch%2FPeweza&security=none&type=tcp#Peweza1-VIP1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2cXY1a3didzV4a3J1cmRo@212.192.214.124:8443?type=tcp#Peweza-ss1-Outline1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpidWI4YTdyeW5nNTFuM2py@212.192.214.238:2087?type=tcp#Peweza-ss2-Outline2
+vless://P1e4w7e0ZaP1e4w7e0Za@212.192.214.207:443?encryption=none&headerType=http&host=digikala.com&path=%2FSearch%2FPeweza&security=none&type=tcp#Peweza-VIP1
+vless://P1e4w7e0ZaP1e4w7e0ZaP1e4w7e0Za@212.192.214.207:443?encryption=none&headerType=http&host=digikala.com&path=%2FSearch%2FPeweza&security=none&type=tcp#Peweza-VIP2
